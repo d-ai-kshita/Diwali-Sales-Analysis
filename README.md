@@ -42,3 +42,14 @@ The goal is to uncover key sales patterns and generate business insights that ca
 
 ## 🚀 Outcome
 This analysis demonstrates strong data cleaning, visualization, and business interpretation skills using Python.
+
+---
+
+## 📊 Sample Visualizations
+The notebook includes multiple visualizations such as:
+- Sales by Gender
+- Sales by Age Group
+- Sales by State and Zone
+- Sales by Occupation
+- Sales by Product Category
+
